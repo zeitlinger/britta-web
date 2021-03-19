@@ -1,6 +1,8 @@
 # Tanzen macht Glücklich!
 
-## Wirbelsäulengymnastik / Rückenfit
+## Online-Kurse über Zoom
+
+### Wirbelsäulengymnastik / Rückenfit
 
 Termine
 
@@ -10,7 +12,11 @@ Termine
 | Mi            | 18:00 - 19:00 |
 | Sa            | 10:00 - 11:00 |
 
-Wir führen eine Ausgleichsgymnastik der wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur) durch.
+Wir führen eine Ausgleichsgymnastik der wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur, Schultern und Beckenboden) mit
+Mobilisation, Kräftigung und Dehnung durch.
+
+Die Übungen werden im Stand auf einem Hocken und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
+wie Faszienrollen oder Kleinhanteln (oder Wasserflaschen).
 
 # Kontakt
 
