@@ -1,5 +1,7 @@
 # Brittas Kurse
 
+![](assets/background.jpg)
+
 ## Wirbelsäulengymnastik / Rückenfit
 
 Termine
