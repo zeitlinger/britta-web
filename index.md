@@ -1,6 +1,6 @@
 # Brittas Kurse
 
-## wirbelsäulengymnastik / Rückenfit
+## Wirbelsäulengymnastik / Rückenfit
 
 Termine
 
@@ -10,4 +10,4 @@ Termine
 | Mi            | 18:00 - 19:00 |
 | Sa            | 10:00 - 11:00 |
 
-Wir führen eine Ausgleichsgymnastik der Wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur) durch.
+Wir führen eine Ausgleichsgymnastik der wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur) durch.
