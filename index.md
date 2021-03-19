@@ -2,6 +2,8 @@
 
 ## Online-Kurse über Zoom
 
+Die Online-Kurse werden über eine 10er-Karte für 30 Euro angeboten. Eine Probestunde ist Kostenlos.
+
 ### Wirbelsäulengymnastik / Rückenfit
 
 Termine
