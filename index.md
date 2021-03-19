@@ -1,6 +1,6 @@
 # Brittas Kurse
 
-![](assets/background.jpg)
+![welcome](assets/background.jpg)
 
 ## Wirbelsäulengymnastik / Rückenfit
 
