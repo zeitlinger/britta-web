@@ -1,6 +1,4 @@
-# Brittas Kurse
-
-![welcome](assets/background.jpg)
+# Tanzen macht Glücklich!
 
 ## Wirbelsäulengymnastik / Rückenfit
 
@@ -13,3 +11,11 @@ Termine
 | Sa            | 10:00 - 11:00 |
 
 Wir führen eine Ausgleichsgymnastik der wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur) durch.
+
+# Kontakt
+
+Wenn du an einem Kurs teilnehmen möchtest, schicke mir eine [email](mailto:britta@zeitlinger.de?subject=Kurse).
+
+<img src="assets/britta.jpg" width="200">
+
+
