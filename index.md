@@ -36,8 +36,9 @@ Durch sowohl sanfte als auch rhythmisch kraftvolle Bewegungen, bringen wir unser
 | ------------- | ------------- |
 | So            | 14:00 - 15:30 |
 
-Beim Hawaiianischen Hula werden im Zusammenspiel von weichen Hüft- und ausdrucksstarken Handbewegungen Geschichten zu sanften Südseerhythmen erzählt. 
+Beim Hawaiianischen Hula werden im Zusammenspiel von weichen Hüft- und ausdrucksstarken Handbewegungen Geschichten zu sanften Südseerhythmen erzählt. Wir tanzen den modernen "Hula Auana" und setzten unsere erlernten Hand- und Hüftbewegungen zu stimmungsvollen Choreographien zusammen.
 
+Hübsche blumige Haar-Accessoires gibt es [hier](https://www.etsy.com/de/shop/LovelyHawaiiJewelry).
 
 
 ## Online-Kurse über den Sportclub Tegeler Forst über Zoom
