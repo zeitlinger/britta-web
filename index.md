@@ -32,7 +32,6 @@ Durch sowohl sanfte als auch rhythmisch kraftvolle Bewegungen, bringen wir unser
 
 ### Hawaiianischer Hulatanz für Fortgeschrittene
 
-<img align="right" src="assets/spange.jpg" style="max-width:100%;" width="200">
 
 | Tag           | Zeit          |
 | ------------- | ------------- |
@@ -41,6 +40,9 @@ Durch sowohl sanfte als auch rhythmisch kraftvolle Bewegungen, bringen wir unser
 Beim Hawaiianischen Hula werden im Zusammenspiel von weichen Hüft- und ausdrucksstarken Handbewegungen Geschichten zu sanften Südseerhythmen erzählt. Wir tanzen den modernen "Hula Auana" und setzten unsere erlernten Hand- und Hüftbewegungen zu stimmungsvollen Choreographien zusammen.
 
 Hübsche blumige Haar-Accessoires gibt es [hier](https://www.etsy.com/de/shop/LovelyHawaiiJewelry).
+
+<img src="assets/spange.jpg" style="max-width:100%;" width="200">
+
 
 
 ## Online-Kurse über den Sportclub Tegeler Forst über Zoom
