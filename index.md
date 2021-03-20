@@ -46,7 +46,7 @@ Z.Z. finden Online Kurse in Wirbelsäulengymnastik statt, Probestunden sind mög
 
 |Mo             | 18:00 - 19:00 | 
 
-https://www.sc-tegeler-forst.de/home
+[www.sc-tegeler-forst.de](https://www.sc-tegeler-forst.de/home)
 
 
 # Kontakt
