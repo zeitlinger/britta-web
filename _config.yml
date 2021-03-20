@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: GFM
 github:
   is_project_page: false
   
