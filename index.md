@@ -1,8 +1,8 @@
-# Tanzen macht Glücklich!
+# TANZEN macht GlLÜCKLICH!
 
 ## Online-Kurse über Zoom
 
-Die Online-Kurse werden über eine 10er-Karte für 30 Euro angeboten. Eine Probestunde ist Kostenlos.
+Die Online-Kurse werden über eine 10er-Karte für 30 Euro angeboten. Eine Probestunde ist kostenlos und jederzeit möglich.
 
 ### Wirbelsäulengymnastik / Rückenfit
 
@@ -17,12 +17,12 @@ Termine
 Wir führen eine Ausgleichsgymnastik der wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur, Schultern und Beckenboden) mit
 Mobilisation, Kräftigung und Dehnung durch.
 
-Die Übungen werden im Stand auf einem Hocken und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
-wie Faszienrollen oder Kleinhanteln (oder Wasserflaschen).
+Die Übungen werden im Stand auf, einem Hocken und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
+wie Faszienrollen oder Kleinhanteln (bzw. Wasserflaschen).
 
 # Kontakt
 
-Wenn du an einem Kurs teilnehmen möchtest, schicke mir eine [email](mailto:britta@zeitlinger.de?subject=Kurse).
+Wenn du an einer Probestunde teilnehmen möchtest, schicke mir eine [email](mailto:britta@zeitlinger.de?subject=Kurse).
 
 <img src="assets/britta.jpg" width="200">
 
