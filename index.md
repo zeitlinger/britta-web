@@ -2,7 +2,7 @@
 
 ## Online-Kurse über Zoom
 
-Die Online-Kurse werden über eine 10er-Karte für 30 Euro angeboten. Eine Probestunde ist kostenlos und jederzeit möglich.
+Die Online-Kurse werden über eine 10er-Karte für 60 Minuten (30 Euro) und 90 Minuten (50 Euro) angeboten. Eine Probestunde ist kostenlos und jederzeit möglich.
 
 ### Wirbelsäulengymnastik / Rückenfit
 
@@ -19,6 +19,20 @@ Mobilisation, Kräftigung und Dehnung durch.
 
 Die Übungen werden im Stand auf, einem Hocken und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
 wie Faszienrollen oder Kleinhanteln (bzw. Wasserflaschen).
+
+
+### Orientalischer Tanz mit Vorkenntnissen
+
+| Tag           | Zeit          |
+| ------------- | ------------- |
+| Do            | 17:00 - 18:00 |
+
+
+### Hawaiianischer Hulatanz für Fortgeschrittene
+
+| Tag           | Zeit          |
+| ------------- | ------------- |
+| So            | 14:00 - 15:30 |
 
 # Kontakt
 
