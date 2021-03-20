@@ -32,6 +32,8 @@ Durch sowohl sanfte als auch rhythmisch kraftvolle Bewegungen, bringen wir unser
 
 ### Hawaiianischer Hulatanz für Fortgeschrittene
 
+<img align="right" src="assets/spange.jpg" width="200">
+
 | Tag           | Zeit          |
 | ------------- | ------------- |
 | So            | 14:00 - 15:30 |
