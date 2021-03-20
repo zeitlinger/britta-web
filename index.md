@@ -27,7 +27,7 @@ wie Faszienrollen oder Kleinhanteln (bzw. Wasserflaschen).
 | ------------- | ------------- |
 | Do            | 17:00 - 18:00 |
 
-Durch sowohl sanfte als auch rhythmisch kraftvollen Bewegungen, bringen wir unseren Körper in Schwung. Das sanfte Ausdauertraining verbesssert die Immunabwehr und schult die Körper-und Sinneswahrnehmung. Die binnenkörperlichen Bewegungen stärken die kleinen Bauch- und Rückenmuskeln - Orientalischer Tanz ist getanztes Rückentraining. Und vor allem: Tanz macht einfach gute Laune und glücklich!
+Durch sowohl sanfte als auch rhythmisch kraftvolle Bewegungen, bringen wir unseren Körper in Schwung. Das sanfte Ausdauertraining verbesssert die Immunabwehr und schult die Körper-und Sinneswahrnehmung. Die binnenkörperlichen Bewegungen stärken die kleinen Bauch- und Rückenmuskeln - Orientalischer Tanz ist getanztes Rückentraining. Und vor allem: Tanz macht einfach gute Laune und glücklich!
 
 
 ### Hawaiianischer Hulatanz für Fortgeschrittene
@@ -51,9 +51,10 @@ https://www.sc-tegeler-forst.de/home
 
 # Kontakt
 
-Wenn du an einer Probestunde teilnehmen möchtest, schicke mir eine [email](mailto:britta@zeitlinger.de?subject=Kurse).
+Wenn du an einer Probestunde teilnehmen möchtest, schicke mir eine [Email](mailto:britta@zeitlinger.de?subject=Kurse).
 
 <img src="assets/britta.jpg" width="200"> 
+
 Britta Zeitlinger
 
 
