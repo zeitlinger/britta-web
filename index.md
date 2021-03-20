@@ -32,7 +32,7 @@ Durch sowohl sanfte als auch rhythmisch kraftvolle Bewegungen, bringen wir unser
 
 ### Hawaiianischer Hulatanz für Fortgeschrittene
 
-<img align="right" src="assets/spange.jpg" width="200">
+<img align="right" src="assets/spange.jpg" style="max-width:100%;" width="200">
 
 | Tag           | Zeit          |
 | ------------- | ------------- |
@@ -47,6 +47,8 @@ Hübsche blumige Haar-Accessoires gibt es [hier](https://www.etsy.com/de/shop/Lo
 
 Z.Z. finden Online Kurse in Wirbelsäulengymnastik statt, Probestunden sind möglich. Präsenzkurse erfolgen in der Albrecht Hausofer Schule in Berlin-Heiligensee. Für Mitglieder des Vereins kostenlos.
 
+| Tag           | Zeit          |
+| ------------- | ------------- |
 |Mo             | 18:00 - 19:00 | 
 
 [www.sc-tegeler-forst.de](https://www.sc-tegeler-forst.de/home)
