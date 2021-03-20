@@ -32,6 +32,9 @@ Durch sowohl sanfte als auch rhythmisch kraftvolle Bewegungen, bringen wir unser
 
 ### Hawaiianischer Hulatanz für Fortgeschrittene
 
+<img src="assets/spange.jpg" style="max-width:100%;" width="200" align="right">
+
+
 
 | Tag           | Zeit          |
 | ------------- | ------------- |
@@ -41,7 +44,6 @@ Beim Hawaiianischen Hula werden im Zusammenspiel von weichen Hüft- und ausdruck
 
 Hübsche blumige Haar-Accessoires gibt es [hier](https://www.etsy.com/de/shop/LovelyHawaiiJewelry).
 
-<img src="assets/spange.jpg" style="max-width:100%;" width="200">
 
 
 
