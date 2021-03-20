@@ -1,4 +1,4 @@
-# TANZEN macht GLÜCKLICH!
+# BEWEGUNG macht GLÜCKLICH!
 
 ## Online-Kurse über Zoom
 
