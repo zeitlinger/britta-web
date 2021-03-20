@@ -53,6 +53,7 @@ https://www.sc-tegeler-forst.de/home
 
 Wenn du an einer Probestunde teilnehmen möchtest, schicke mir eine [email](mailto:britta@zeitlinger.de?subject=Kurse).
 
-<img src="assets/britta.jpg" width="200"> Britta Zeitlinger
+<img src="assets/britta.jpg" width="200"> 
+Britta Zeitlinger
 
 
