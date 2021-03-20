@@ -17,7 +17,7 @@ Termine
 Wir führen eine Ausgleichsgymnastik der wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur, Schultern und Beckenboden) mit
 Mobilisation, Kräftigung und Dehnung durch.
 
-Die Übungen werden im Stand auf, einem Hocken und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
+Die Übungen werden im Stand, auf einem Hocken und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
 wie Faszienrollen oder Kleinhanteln (bzw. Wasserflaschen).
 
 
