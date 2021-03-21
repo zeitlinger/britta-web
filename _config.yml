@@ -2,13 +2,19 @@ theme: jekyll-theme-cayman
 markdown: GFM
 github:
   is_project_page: false
-  
+
 title: BEWEGUNG macht GLÜCKLICH!
 email: britta@zeitlinger.de
-description: > 
+description: >
   Brittas Online-Tanzkurse über Zoom
 
 lang: de_DE
 google_analytics_id: G-90DWF3T3YS
 
+plugins:
+  - jekyll-analytics
 
+jekyll_analytics:
+  GoogleAnalytics:
+    id: G-90DWF3T3YS
+    anonymizeIp: false
