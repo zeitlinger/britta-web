@@ -5,9 +5,9 @@
 Die Online-Kurse werden über eine 10er-Karte für 60 Minuten (30 Euro) und 90 Minuten (50 Euro) angeboten. Eine Probestunde ist kostenlos und jederzeit möglich.
 
 - [Wirbelsäulengymnastik / Rückenfit](#wirbelsulengymnastik--rckenfit)
-- [Orientalischer Tanz mit Vorkenntnissen](#orientalischer-tanz-mit-vorkenntnissen)
-- [Hawaiianischer Hulatanz für Fortgeschrittene](#hawaiianischer-hulatanz-fr-fortgeschrittene)
-- [Online-Kurse über den Sportclub Tegeler Forst über Zoom](#online-kurse-ber-den-sportclub-tegeler-forst-ber-zoom)
+- [Orientalischer Tanz](#orientalischer-tanz-mit-vorkenntnissen)
+- [Hawaiianischer Hulatanz](#hawaiianischer-hulatanz-fr-fortgeschrittene)
+- [Online-Kurse über den SC Tegeler Forst über Zoom](#online-kurse-ber-den-sportclub-tegeler-forst-ber-zoom)
 - [Kontakt](#kontakt)
 
 ### Wirbelsäulengymnastik / Rückenfit
