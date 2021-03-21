@@ -1,5 +1,3 @@
-{% include analytics.html %}
-
 # BEWEGUNG macht GLÜCKLICH!
 
 ## Online-Kurse über Zoom
