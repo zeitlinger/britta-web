@@ -1,4 +1,4 @@
-# BEWEGUNG macht GLÜCKLICH!
+# Rückenfit macht GLÜCKLICH!
 
 ## Online-Kurse über Zoom
 
