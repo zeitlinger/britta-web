@@ -17,3 +17,12 @@ header.page-header {
   background-image: url('/assets/background.jpg');
   background-size: cover;
 }
+
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+body {
+  color: #2b2b2b;
+}
