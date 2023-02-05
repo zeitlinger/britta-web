@@ -10,6 +10,7 @@ description: >
 
 lang: de_DE
 google_analytics_id: G-90DWF3T3YS
+google_analytics: G-90DWF3T3YS
 
 plugins:
   - jekyll-analytics
