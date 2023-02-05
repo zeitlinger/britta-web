@@ -18,9 +18,13 @@ header.page-header {
   background-size: cover;
 }
 
+table {
+  box-sizing: content-box;
+}
+
 table, th, td {
-  border: 1px solid;
-  border-collapse: collapse;
+  border: 1px solid !important;
+  border-collapse: collapse !important;
 }
 
 body {
