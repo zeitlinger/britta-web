@@ -6,7 +6,7 @@
 Wir führen eine Ausgleichsgymnastik der wirbelsäulenrelevanten Körperpartien (Rücken-/Bauchmuskulatur, Schultern und Beckenboden) mit
 Mobilisation, Kräftigung und Dehnung durch.
 
-Die Übungen werden im Stand, auf einem Hocker und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
+Die Übungen werden im Stand, auf einem Hocken und am Boden durchgeführt. Wir nutzen gelegentlich auch verschiedene Kleingeräte,
 wie Faszienrollen oder Kleinhanteln (bzw. Wasserflaschen).
 
 Bequem von zu Hause über Zoom mit Kontrolle und Korrektur der Übungen.
@@ -26,9 +26,18 @@ Es wird ein Rechner/Laptop/Tablet mit guter Internetanbindung und guter Video- u
 
 
 
-Die Online-Kurse werden über eine 10er-Karte für 60 Minuten (50 Euro) angeboten. Eine Probestunde ist kostenlos und jederzeit möglich. Bezahlung erfolgt als Überweisung oder Paypal.
+Die Online-Kurse werden über eine 10er-Karte für 60 Minuten (50 Euro) angeboten. Einzelstunden (60 Minuten) kosten 7 Euro. Eine Probestunde ist kostenlos und jederzeit möglich. Bezahlung erfolgt als Überweisung oder Paypal.
 
 
+## Online-Kurse über den Sportclub Tegeler Forst über Zoom
+
+Es finden Online Kurse in Wirbelsäulengymnastik statt, Probestunden sind möglich. Für Mitglieder des Vereins kostenlos.
+
+| Tag           | Zeit          |
+| ------------- | ------------- |
+|Mo             | 18:00 - 19:00 | 
+
+[www.sc-tegeler-forst.de](https://www.sc-tegeler-forst.de/home)
 
 
 # Kontakt
