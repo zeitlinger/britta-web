@@ -1,4 +1,4 @@
-# Rückenfit macht GLÜCKLICH!
+# Rückenfit macht GLÜCKLICH! Kostenloses Probetraining
 
 ## Online-Kurse über Zoom
 
